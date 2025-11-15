@@ -1,0 +1,56 @@
+/* Simple responsive design for Balneário Rio Preto */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #faf9f7;
+    color: #333;
+}
+header {
+    background-color: #023e8a;
+    color: white;
+    padding: 20px 10%;
+}
+header h1 {
+    margin: 0;
+}
+nav {
+    margin-top: 10px;
+}
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px 10%;
+}
+section {
+    margin-bottom: 40px;
+}
+h2 {
+    color: #023e8a;
+}
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+footer {
+    background-color: #023e8a;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+a {
+    color: #0077b6;
+}
+a:hover {
+    text-decoration: underline;
+}
